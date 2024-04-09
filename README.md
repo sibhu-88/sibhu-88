@@ -10,11 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning ** C, ARM7**
+ 🌱 I’m currently learning ** C, C++, ARM7, 8051**
 
-💬 Ask me about ** c, ARM7... or anything [here](https://github.com/prabhu-88/prabhu-88/issues)**
+💬 Ask me about ** C, C++, ARM7, 8051 ... or anything [here](https://github.com/prabhu-88/prabhu-88/issues)**
 
 ⚡ Fun fact **I THINK I AM FUNNY**
 
