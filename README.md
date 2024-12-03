@@ -9,7 +9,6 @@
 ---
 
 ### 📞 Contact Information
-- **Phone**: +91-9952551867
 - **Email**: [imsivaprabhu08@gmail.com](mailto:imsivaprabhu08@gmail.com)
 - **LinkedIn**: [sivaprabhu-v](https://www.linkedin.com/in/sivaprabhu-v/)
 
