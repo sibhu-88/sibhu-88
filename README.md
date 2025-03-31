@@ -1,104 +1,50 @@
-# Siva Prabhu V
+# Hi 👋, I'm SIVA PRABHU
 
-**Embedded Systems Trainer | Embedded Software Engineer**
+<h3 align="center">A passionate Embedded Systems Trainer & Developer from India</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sivaprabhu-v/)
-[![Email](https://img.shields.io/badge/Email-imsivaprabhu08%40gmail.com-red)](mailto:imsivaprabhu08@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue)](https://sibhu-88.github.io/sivaprabhu.github.io/)
+<img align="right" alt="coding" width="400" src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" />
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sibhu-88&label=Profile%20views&color=0e75b6&style=flat" alt="sibhu-88" /> </p>
 
-### 📞 Contact Information
-- **Email**: [imsivaprabhu08@gmail.com](mailto:imsivaprabhu08@gmail.com)
-- **LinkedIn**: [sivaprabhu-v](https://www.linkedin.com/in/sivaprabhu-v/)
-- **GitHub**: [sibhu-88](https://github.com/sibhu-88)
+## About Me
+I am an **Embedded Systems Trainer** and **Embedded Software Engineer** with a strong passion for designing, developing, and optimizing real-time embedded solutions. With experience in microcontrollers, firmware development, and hardware interfacing, I enjoy working on cutting-edge projects that push the limits of embedded technology.
 
----
+### Professional Journey
+- 🎓 **Educational Background:** Bachelor's in Electronics and Instrumentation Engineering from St. Joseph’s College of Engineering
+- 🎯 **Experience:** Currently serving as an Embedded Systems Trainer, guiding students and professionals in mastering microcontrollers and embedded software
+- 🔧 **Expertise:** Specializing in firmware development, real-time operating systems, and hardware communication protocols
+- 💡 **Passion:** Building efficient embedded solutions, optimizing low-level programming, and sharing knowledge through training and mentorship
+- 🏀 **Hobby:** Passionate **basketball player**, enjoying teamwork and strategy both on and off the court
 
-### 👨‍💻 Professional Summary
+## Skills & Technologies
+- **Programming Languages:** C, C++, Embedded C, Python
+- **Microcontrollers:** ARM7 (LPC2129), 8051, ESP8266
+- **Communication Protocols:** CAN, I2C, UART, SPI, RS232
+- **Operating Systems & Tools:** Linux, RTOS, TCP/IP
+- **Development Tools:** Keil, Flash Magic, ISP, Proteus, CAPL
+- **Version Control:** Git, GitHub
 
-Passionate **Embedded Systems Trainer & Engineer** with expertise in designing, developing, and troubleshooting embedded systems. Adept at **microcontroller programming**, **communication protocols**, and **real-time system development**. Committed to delivering innovative and efficient embedded solutions.
+## Projects
+- 🔍 [Body Control Module (BCM) in Automobiles](https://github.com/sibhu-88/Projects/tree/main/Body-Control-Module)
+- 🏡 [Multilevel Security System](https://github.com/sibhu-88/Projects/tree/main/Multilevel-Security-System)
+- 📚 [Student Database Management](https://github.com/sibhu-88/Projects/tree/main/STUDENTS_DATABASE)
+- ⏰ [Inbuilt RTC with Temperature Reading using SPI](https://github.com/sibhu-88/Projects/tree/main/INBUILD_RTC_ARM)
+- 🎮 Games:
+  - [Snakes and Ladders](https://github.com/sibhu-88/Projects/tree/main/Game/snakesAndLadders.c)
+  - [Number Guessing](https://github.com/sibhu-88/Projects/tree/main/Game/Number_Guessing.c)
+  - [Tic Tac Toe](https://github.com/sibhu-88/Projects/tree/main/Game/Tic_Tac_Toe.c)
+  - [Rock Paper Scissors](https://github.com/sibhu-88/Projects/tree/main/Game/Rock_Paper_Scissors.c)
+- 🚀 **Ongoing Project:** [RFID-Based Secure Database (RFID_SDB)](https://github.com/sibhu-88/practice/tree/main/RFID_SDB)
 
----
+## How to Reach Me
+📧 **Email:** [imsivaprabhu08@gmail.com](mailto:imsivaprabhu08@gmail.com)
 
-### 🎓 Education
+🔗 **LinkedIn:** [Siva Prabhu V](https://www.linkedin.com/in/sivaprabhu-v/)
 
-- **Bachelor of Electronics and Instrumentation Engineering**
-  - St. Joseph’s College of Engineering (2017 - 2021)
-- **Higher Secondary Certificate (HSC)**
-  - KVS Higher Secondary School (2017)
+🐙 **GitHub:** [sibhu-88](https://github.com/sibhu-88)
 
----
-
-### 💼 Technical Skills
-
-- **Programming Languages**: C, C++, Embedded C
-- **Embedded Systems**: ARM7 (LPC2129), 8051, ESP8266
-- **Communication Protocols**: CAN, I2C, UART, SPI, RS232
-- **Operating Systems**: Linux, Real-Time Operating Systems (RTOS)
-- **Networking**: TCP/IP
-- **Software & Tools**: Keil, Flash Magic, ISP, Proteus, CAPL
-
----
-
-### 🌟 Soft Skills
-
-- Strong problem-solving and analytical skills
-- Attention to detail
-- Effective teamwork and collaboration
-- Excellent communication and documentation skills
-- Ability to write efficient and maintainable code
+🚀 **Portfolio:** [My Projects](https://github.com/sibhu-88/Projects.git)
 
 ---
 
-### 🚀 Projects
-
-#### CAN-Based Body Control Module
-- **Role**: Developer
-- **Description**: Developed an **embedded CAN-based control system** for vehicle indicators, wipers, and dashboard display using **LPC2129**. Designed the architecture, implemented **CAN protocol**, and ensured **real-time communication** between modules. Conducted extensive testing to guarantee system reliability.
-
-#### Multilevel Security System
-- **Role**: Developer
-- **Description**: Designed an **OTP-based security system** using **I2C EEPROM (AT24C08) and GSM module communication via UART**. Implemented a **4x4 keypad** for authentication and motor control for secure access. Developed and debugged embedded C code to ensure secure data handling and communication.
-
-#### RFID Scanner-Based Student Record System *(Upcoming Project)*
-- **Role**: Developer
-- **Description**: Developing an **RFID-based system** for accessing **student records** efficiently. The system will enable **secure authentication**, **real-time data retrieval**, and **seamless record management** using RFID technology.
-
----
-
-### 📂 Project Repository
-
-Explore my projects on GitHub: [Projects Repository](https://github.com/sibhu-88/Projects)
-
-#### 🔹 List of Projects
-- [Body Control Module (BCM) in Automobiles](https://github.com/sibhu-88/Projects/tree/main/Body-Control-Module)
-- [Multilevel Security System](https://github.com/sibhu-88/Projects/tree/main/Multilevel-Security-System)
-- [Student Database Management](https://github.com/sibhu-88/Projects/tree/main/STUDENTS_DATABASE)
-- [Inbuilt RTC with Temperature Reading using SPI](https://github.com/sibhu-88/Projects/tree/main/INBUILD_RTC_ARM)
-- [Gaming - Snakes and Ladders](https://github.com/sibhu-88/Projects/tree/main/Game/snakesAndLadders.c)
-- [Gaming - N-Number Guessing](https://github.com/sibhu-88/Projects/tree/main/Game/Number_Guessing.c)
-- [Gaming - Tic Tac Toe](https://github.com/sibhu-88/Projects/tree/main/Game/Tic_Tac_Toe.c)
-- [Gaming - Rock Paper Scissors](https://github.com/sibhu-88/Projects/tree/main/Game/Rock_Paper_Scissors.c)
-
-Each project includes detailed documentation, source code, and implementation steps.
-
----
-
-### 🏆 Experience
-
-Currently working as an **Embedded Systems Trainer at Vector India**, providing training in **C, Embedded C, ARM7, Microcontrollers, and Communication Protocols**. Previously implemented multiple **embedded projects**, focusing on **device drivers, system architecture, debugging, and software testing**. Proficient in **Linux-based environments** and **TCP/IP networking**.
-
----
-
-### 📜 Certifications
-
-- **Advanced Embedded Systems Course**  
-  - Vector India Pvt Ltd, Chennai  
-  - (C: **90.67%**, C++: **93.5%**, ARM7 Module: **94%**, UNIX Module: **70%**, TCP/IP: **83%**)
-
----
-
-### 🏀 Co-Curricular Activities
-
-Organized and managed a **basketball competition**, showcasing leadership, teamwork, and event management skills. Passionate about sports and fostering **team collaboration**.
+📌 *Feel free to explore my repositories, contribute, or reach out for collaboration!*
