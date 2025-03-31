@@ -67,6 +67,25 @@ Passionate **Embedded Systems Trainer & Engineer** with expertise in designing, 
 
 ---
 
+### 📂 Project Repository
+
+Explore my projects on GitHub: [Projects Repository](https://github.com/sibhu-88/Projects)
+
+#### 🔹 List of Projects
+- [CAN-Based Body Control Module](https://github.com/sibhu-88/Projects/tree/main/CAN-Based-Body-Control-Module)
+- [Multilevel Security System](https://github.com/sibhu-88/Projects/tree/main/Multilevel-Security-System)
+- [RFID Scanner-Based Student Record System (Upcoming)](https://github.com/sibhu-88/Projects/tree/main/RFID-Scanner-Student-Record-System)
+- [Student Record Management System](https://github.com/sibhu-88/Projects/tree/main/Student-Record-Management)
+- [Inbuilt RTC with Temperature Reading using SPI](https://github.com/sibhu-88/Projects/tree/main/RTC-Temp-Reading-SPI)
+- [Gaming - Snakes and Ladders](https://github.com/sibhu-88/Projects/tree/main/Snakes-And-Ladders)
+- [Gaming - N-Number Guessing](https://github.com/sibhu-88/Projects/tree/main/N-Number-Guessing)
+- [Gaming - Tic Tac Toe](https://github.com/sibhu-88/Projects/tree/main/Tic-Tac-Toe)
+- [Gaming - Rock Paper Scissors](https://github.com/sibhu-88/Projects/tree/main/Rock-Paper-Scissors)
+
+Each project includes detailed documentation, source code, and implementation steps.
+
+---
+
 ### 🏆 Experience
 
 Currently working as an **Embedded Systems Trainer at Vector India**, providing training in **C, Embedded C, ARM7, Microcontrollers, and Communication Protocols**. Previously implemented multiple **embedded projects**, focusing on **device drivers, system architecture, debugging, and software testing**. Proficient in **Linux-based environments** and **TCP/IP networking**.
